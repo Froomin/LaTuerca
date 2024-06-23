@@ -1,0 +1,30 @@
+header
+{
+	display: flex;
+	justify-content: space-between;
+	background-color: #E0AE59;
+	align-items: center;
+	height: 70px;	
+}
+body
+{
+	margin: 0;
+	background-color: #ECF3DC;
+}
+a
+{
+text-decoration: none;
+color: black;
+padding: 60px;
+
+}
+
+h1
+{
+	padding: 30px;
+	font-size: 40px;
+}
+a:hover
+{
+	color: white;
+}
